@@ -1,5 +1,5 @@
 # Hi, I am Muhammad Abdul Mannan. 👋
-- ###  🤗 I am a Software and Machine Engineer.
+- ###  🤗 I am a Software Engineer and Machine learning Engineer.
 - ###  <img src="https://img.icons8.com/color/20/find-matching-job.png"> I am currently looking for a job.
 
 ### Connect with me:

@@ -1,6 +1,6 @@
 # Hi, I am Muhammad AbdulMannan. 👋
 - ###  🤗 I am an Artificial Intelegence Resercher and Developer.
-- ###   My main focus is in Deep Learning, Generative AI, Large Language Models(LLM) and Computer Vision.
+- ###   My main focus is in Deep Learning, Generative AI, Large Language Models(LLM) and Computer Vision
 - ###   I have so many other experierice in computer science feild. Please refer to my resume.
 - ###  <img src="https://img.icons8.com/color/20/find-matching-job.png"> I am currently looking for a job.
 

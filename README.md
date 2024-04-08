@@ -15,6 +15,10 @@
 ### Languages and Platform:
 <p>
   <img src="https://img.icons8.com/color/35/000000/python.png">
+  <img src="https://img.icons8.com/fluency/35/pytorch.png">
+  
+  <img src="https://img.icons8.com/color/35/000000/tensorflow.png"/>
+  <img src="https://img.icons8.com/fluency/38/000000/opencv.png"/>
   <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/35/c-programming.png"/>
@@ -29,8 +33,7 @@
   
   
   
-  <img src="https://img.icons8.com/color/35/000000/tensorflow.png"/>
-  <img src="https://img.icons8.com/fluency/38/000000/opencv.png"/>
+  
   
 
 </p>
